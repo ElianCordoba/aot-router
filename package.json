@@ -1,0 +1,18 @@
+{
+  "name": "aot-router",
+  "engines": {
+    "node": ">=10"
+  },
+  "version": "0.0.1",
+  "main": "example.js",
+  "scripts": {
+    "build-watch": "tsc --pretty --"
+  },
+  "author": "Elian Cordoba <eliancordoba98@gmail.com> (github.com/ElianCordoba)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.13.2",
+    "benchmark": "^2.1.4",
+    "find-my-way": "^3.0.0"
+  }
+}
