@@ -121,7 +121,7 @@ const endpoints = {
   getUserByName: {
     method: 'GET',
     url: '/user/NAME',
-    dynamicParts: 1
+    dynamicParts: 2
   }
 }
 ```
