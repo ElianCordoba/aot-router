@@ -27,7 +27,7 @@ router.on("/user/:name", ...)
 
 _Originally I was sending the indexes of the segment by splitting the URL by the "/" but then I realized I could compress that information by encoding it in a bitmap, where each bit is an index. Then that can be converted as decimal (For an example read the `getParamsFromRoute` function)_
 
-TL:DR;
+## TL:DR;
 
 Give the following setup:
 ```javascript
