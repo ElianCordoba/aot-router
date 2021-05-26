@@ -13,6 +13,6 @@
   "devDependencies": {
     "@types/node": "^13.13.2",
     "benchmark": "^2.1.4",
-    "find-my-way": "^3.0.0"
+    "find-my-way": "^3.0.5"
   }
 }
